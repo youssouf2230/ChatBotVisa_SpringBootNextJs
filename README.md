@@ -40,7 +40,7 @@ Le but est de permettre à un utilisateur de poser des questions naturelles (ex.
 - **RAG (Retrieval-Augmented Generation)**
 
 ###  Frontend — Next.js
-- **Next.js 14+ (App Router)**
+- **Next.js 15 (App Router)**
 - **Tailwind CSS**
 - **TypeScript**
 - **Axios** pour communiquer avec le backend
