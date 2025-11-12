@@ -20,7 +20,7 @@ Le but est de permettre à un utilisateur de poser des questions naturelles (ex.
 
 ---
 
-## ⚙️ Technologies principales
+##  Technologies principales
 
 ###  Backend — Spring Boot
 - **Spring Boot 3+**
